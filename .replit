@@ -1,0 +1,4 @@
+run = "ddev start"
+
+[packager]
+ignoredPaths = [".git"]
